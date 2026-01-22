@@ -1,0 +1,8 @@
+*.jsonl
+*.log
+*cache*
+.DS_Store
+LICENSE.txt
+auth.json
+license.txt
+tmp

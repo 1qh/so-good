@@ -1,0 +1,13 @@
+notify = [
+  "bash",
+  "-lc",
+  "osascript -e 'display notification \"Task finished\" with title \"Codex\"'; afplay /System/Library/Sounds/Glass.aiff",
+]
+model = "gpt-5.2-codex"
+model_reasoning_effort = "xhigh"
+
+[projects."/Users/o"]
+trust_level = "trusted"
+
+[projects."/Users/o/z/bopg"]
+trust_level = "trusted"
